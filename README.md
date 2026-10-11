@@ -88,8 +88,10 @@ backend engineering, databases, and data analysis.
 *A beauty website experience.*
 
 <a href="https://cnailsbeauty.vercel.app/">
-  <img src="https://img.shields.io/badge/VISIT_LIVE_WEBSITE-512638?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="./assets/cnails-beauty.png" width="100%" alt="CNails Beauty website preview" />
 </a>
+
+[View Live Website →](https://cnailsbeauty.vercel.app/)
 
 ---
 
@@ -97,8 +99,10 @@ backend engineering, databases, and data analysis.
 *A web-based smoke detection project.*
 
 <a href="https://smoke-detector.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-512638?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="./assets/smoke-detector.png" width="100%" alt="Smoke Detector project preview" />
 </a>
+
+[View Live Demo →](https://smoke-detector.vercel.app/)
 
 ---
 
@@ -106,8 +110,10 @@ backend engineering, databases, and data analysis.
 *An education-focused prediction application.*
 
 <a href="https://edupredict-mu.vercel.app/login">
-  <img src="https://img.shields.io/badge/OPEN_EDUPREDICT-512638?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="./assets/edupredict.png" width="100%" alt="EduPredict application preview" />
 </a>
+
+[Open EduPredict →](https://edupredict-mu.vercel.app/login)
 
 </div>
 
