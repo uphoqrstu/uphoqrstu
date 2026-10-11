@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171416,50:512033,100:842D48&height=200&section=header&text=UPHO&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Freelancer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171416,50:512033,100:842D48&height=200&section=header&text=uphoqrstu.id&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Freelancer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" />
 
 
 *Turning ideas into practical digital solutions.*
