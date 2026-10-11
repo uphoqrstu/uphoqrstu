@@ -79,71 +79,41 @@ backend engineering, databases, and data analysis.
 
 ---
 
+
 ## 03 — Selected Projects
-
-*Some projects and development areas I have worked on or explored.*
-
-### 01. QR Restaurant Ordering System
-
-A digital ordering system designed to simplify restaurant menu access,
-product management, and order processing.
-
-- QR-based menu access.
-- Product and order management.
-- Backend API and relational database integration.
-
-`React` `Laravel` `MySQL`
-
-<!-- Add the real repository URL when available. -->
-
-### 02. Jati Asih — Ornamental Plant Catalog
-
-An online catalog concept for ornamental plants, with a clean interface
-for presenting products, images, and prices.
-
-- Product catalog and pricing.
-- Product image presentation.
-- Database integration.
-
-`React` `Supabase`
-
-<!-- Add the real repository URL when available. -->
-
-### 03. Plant Purchase Pattern Analysis
-
-A data mining project focused on discovering combinations of ornamental
-plants purchased from online transaction data.
-
-- Data cleaning and preprocessing using Python.
-- Transaction transformation.
-- Apriori association rules using support, confidence, and lift.
-
-`Python` `RapidMiner` `Apriori`
-
-<!-- Publish only data that you have permission to share. -->
-
-### 04. Flight Delay Risk Prediction
-
-A machine learning application concept for classifying flight delay risk
-from selected flight and weather characteristics.
-
-- Feature processing and classification.
-- Naive Bayes model.
-- API and database integration.
-
-`Go` `React` `MySQL`
-
-<!-- Add the real repository URL when available. -->
 
 <div align="center">
 
-<a href="https://github.com/uphoqrstu?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-512638?style=for-the-badge&logo=github&logoColor=F5E9ED" />
+### CNails Beauty
+*A beauty website experience.*
+
+<a href="https://cnailsbeauty.vercel.app/">
+  <img src="https://img.shields.io/badge/VISIT_LIVE_WEBSITE-512638?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+### Smoke Detector
+*A web-based smoke detection project.*
+
+<a href="https://smoke-detector.vercel.app/">
+  <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-512638?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+### EduPredict
+*An education-focused prediction application.*
+
+<a href="https://edupredict-mu.vercel.app/login">
+  <img src="https://img.shields.io/badge/OPEN_EDUPREDICT-512638?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
+
+*More projects and experiments are available in my repositories.*
 
 ## 04 — GitHub Insights
 
