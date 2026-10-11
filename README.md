@@ -1,142 +1,197 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171416,50:512033,100:842D48&height=200&section=header&text=uphoqrstu.id&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Freelancer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0809,30:24131B,65:512638,100:171116&height=250&section=header&text=uphoqrstu.id&fontSize=62&fontColor=F5E9ED&fontAlignY=38&animation=fadeIn&desc=%20DEVELOPER%20%20%E2%80%A2%20%20FREELANCER&descSize=13&descAlignY=58&descColor=C99A83" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=17&duration=3000&pause=1200&color=C99A83&center=true&vCenter=true&width=540&lines=Crafting+digital+experiences.;Thoughtful+design.+Clean+code.;Turning+ideas+into+reality.;Always+building%2C+always+learning." alt="Typing introduction" />
 
-*Turning ideas into practical digital solutions.*
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uphoqrstu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-512033?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/uphoqrstu?tab=repositories)
+<a href="https://github.com/uphoqrstu">
+  <img src="https://img.shields.io/badge/GITHUB-171116?style=for-the-badge&logo=github&logoColor=C99A83" />
+</a>
+<a href="https://github.com/uphoqrstu?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-512638?style=for-the-badge&logoColor=F5E9ED" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C99A83&height=1&section=header" width="65%" />
+
+</div>
+
+<br/>
+
+## 01 — About Me
+
+<img align="right" width="100" src="https://img.shields.io/badge/STATUS-OPEN%20TO%20PROJECTS-512638?style=flat-square&labelColor=171116" />
+
+I'm **UPHO**, a developer and freelancer interested in building
+practical digital products with clean interfaces and reliable functionality.
+
+My work and learning interests span web development, mobile applications,
+backend engineering, databases, and data analysis.
+
+- Building applications that solve practical problems.
+- Developing APIs and database-driven systems.
+- Exploring mobile development and modern web technologies.
+- Learning through experimentation and real-world projects.
+- Open to suitable freelance work and collaborations.
+
+<br clear="right"/>
+
+> *"Good software is built with intention, not just code."*
+
+---
+
+## 02 — Technology & Tools
+
+**LANGUAGES**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-171116?style=flat-square&logo=javascript&logoColor=E8C547" />
+<img src="https://img.shields.io/badge/TypeScript-171116?style=flat-square&logo=typescript&logoColor=7AA7E8" />
+<img src="https://img.shields.io/badge/Python-171116?style=flat-square&logo=python&logoColor=91B9E8" />
+<img src="https://img.shields.io/badge/PHP-171116?style=flat-square&logo=php&logoColor=B8A5E8" />
+<img src="https://img.shields.io/badge/Go-171116?style=flat-square&logo=go&logoColor=79D5E5" />
+</p>
+
+**FRAMEWORKS & RUNTIME**
+
+<p>
+<img src="https://img.shields.io/badge/React-171116?style=flat-square&logo=react&logoColor=75D5E8" />
+<img src="https://img.shields.io/badge/React_Native-171116?style=flat-square&logo=react&logoColor=75D5E8" />
+<img src="https://img.shields.io/badge/Node.js-171116?style=flat-square&logo=nodedotjs&logoColor=83C98C" />
+<img src="https://img.shields.io/badge/Express-171116?style=flat-square&logo=express&logoColor=F5E9ED" />
+<img src="https://img.shields.io/badge/Laravel-171116?style=flat-square&logo=laravel&logoColor=FF8C82" />
+</p>
+
+**DATABASES & DEVELOPMENT TOOLS**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-171116?style=flat-square&logo=mysql&logoColor=80BCE8" />
+<img src="https://img.shields.io/badge/Supabase-171116?style=flat-square&logo=supabase&logoColor=72D8AD" />
+<img src="https://img.shields.io/badge/Git-171116?style=flat-square&logo=git&logoColor=E68D79" />
+<img src="https://img.shields.io/badge/GitHub-171116?style=flat-square&logo=github&logoColor=C99A83" />
+<img src="https://img.shields.io/badge/Postman-171116?style=flat-square&logo=postman&logoColor=F2A078" />
+<img src="https://img.shields.io/badge/RapidMiner-171116?style=flat-square&logoColor=C99A83" />
+</p>
+
+---
+
+## 03 — Selected Projects
+
+*Some projects and development areas I have worked on or explored.*
+
+### 01. QR Restaurant Ordering System
+
+A digital ordering system designed to simplify restaurant menu access,
+product management, and order processing.
+
+- QR-based menu access.
+- Product and order management.
+- Backend API and relational database integration.
+
+`React` `Laravel` `MySQL`
+
+<!-- Add the real repository URL when available. -->
+
+### 02. Jati Asih — Ornamental Plant Catalog
+
+An online catalog concept for ornamental plants, with a clean interface
+for presenting products, images, and prices.
+
+- Product catalog and pricing.
+- Product image presentation.
+- Database integration.
+
+`React` `Supabase`
+
+<!-- Add the real repository URL when available. -->
+
+### 03. Plant Purchase Pattern Analysis
+
+A data mining project focused on discovering combinations of ornamental
+plants purchased from online transaction data.
+
+- Data cleaning and preprocessing using Python.
+- Transaction transformation.
+- Apriori association rules using support, confidence, and lift.
+
+`Python` `RapidMiner` `Apriori`
+
+<!-- Publish only data that you have permission to share. -->
+
+### 04. Flight Delay Risk Prediction
+
+A machine learning application concept for classifying flight delay risk
+from selected flight and weather characteristics.
+
+- Feature processing and classification.
+- Naive Bayes model.
+- API and database integration.
+
+`Go` `React` `MySQL`
+
+<!-- Add the real repository URL when available. -->
+
+<div align="center">
+
+<a href="https://github.com/uphoqrstu?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-512638?style=for-the-badge&logo=github&logoColor=F5E9ED" />
+</a>
 
 </div>
 
 ---
 
-## About Me
-
-Hi! I'm **Adi Rahmat**, a developer and freelancer who enjoys building
-applications, developing backend systems, and exploring new technologies.
-
-I enjoy turning ideas into functional applications, learning by building
-real projects, and improving my problem-solving skills through code.
-
-- Focused on web, mobile, and backend development.
-- Interested in REST APIs, databases, and software architecture.
-- Exploring data analysis and data mining.
-- Always learning, experimenting, and building something new.
-
-> "Build with purpose. Improve with every commit."
-
-## Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### Frameworks & Runtime
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6D00?style=flat-square&logoColor=white)
-
-## Featured Projects
-
-### 01. QR Code Restaurant Ordering System
-
-A digital restaurant ordering application designed to simplify
-menu browsing and order management.
-
-- QR-based access to restaurant menus.
-- Product and order management.
-- Backend API and database integration.
-
-**Tech:** React, Laravel, MySQL
-
-<!-- Add your repository URL when the project is published. -->
-
-### 02. Jati Asih — Plant Store
-
-An online catalog concept for ornamental plants, designed to present
-products with a clean and elegant interface.
-
-- Product catalog and pricing.
-- Image-based product presentation.
-- Database integration.
-
-**Tech:** React, Supabase
-
-<!-- Add your repository URL when the project is published. -->
-
-### 03. Plant Purchase Pattern Analysis
-
-A data mining project exploring combinations of ornamental plants
-purchased from online store transaction data.
-
-- Transaction data preprocessing with Python.
-- Association rule mining using Apriori.
-- Evaluation using support, confidence, and lift.
-
-**Tech:** Python, RapidMiner, Apriori
-
-<!-- Publish the project and dataset only when permitted. -->
-
-### 04. Flight Delay Prediction
-
-A machine learning application concept for classifying flight delay
-risk using selected weather and flight characteristics.
-
-- Data processing and feature analysis.
-- Naive Bayes classification.
-- API and database integration.
-
-**Tech:** Go, React, MySQL
-
-<!-- Add your repository URL when the project is published. -->
-
-## GitHub Statistics
+## 04 — GitHub Insights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=uphoqrstu&show_icons=true&hide_border=true&bg_color=171416&title_color=C77A91&icon_color=C77A91&text_color=E8DDE1&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uphoqrstu&show_icons=true&hide_border=true&bg_color=171116&title_color=C99A83&icon_color=C99A83&text_color=E9DDE2&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uphoqrstu&layout=compact&hide_border=true&bg_color=171416&title_color=C77A91&text_color=E8DDE1" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uphoqrstu&layout=compact&hide_border=true&bg_color=171116&title_color=C99A83&text_color=E9DDE2" />
 
-<img src="https://streak-stats.demolab.com?user=uphoqrstu&hide_border=true&background=171416&ring=C77A91&fire=C77A91&currStreakLabel=C77A91&sideLabels=E8DDE1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A99AA0" alt="GitHub contribution streak" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=uphoqrstu&hide_border=true&background=171116&ring=C99A83&fire=C99A83&currStreakLabel=C99A83&sideLabels=E9DDE2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A99AA0" />
 
 </div>
 
-## Currently
+---
 
-- Improving my development workflow.
-- Building practical applications and backend services.
-- Exploring data mining and software engineering.
-- Open to learning opportunities and suitable freelance projects.
+## 05 — Current Focus
 
-## Let's Connect
+- Improving software development practices.
+- Building useful web and mobile applications.
+- Strengthening backend and database skills.
+- Exploring data mining and machine learning.
+- Creating maintainable, well-documented projects.
 
-Interested in collaborating or discussing a project?
-Feel free to explore my repositories and reach out through GitHub.
+---
+
+## 06 — Contact & Collaboration
+
+I'm open to meaningful collaborations, development opportunities,
+and freelance projects that match my skills and interests.
+
+The best way to explore my work is through my public repositories.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-512033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uphoqrstu?tab=repositories)
+<a href="https://github.com/uphoqrstu?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-512638?style=for-the-badge&logo=github&logoColor=F5E9ED" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:842D48,50:512033,100:171416&height=100&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A596C&height=1&section=footer" width="65%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512638,50:24131B,100:0A0809&height=110&section=footer" width="100%" />
+
+<sub>UPHOQRSTU.ID · Crafted with curiosity and code.</sub>
 
 </div>
